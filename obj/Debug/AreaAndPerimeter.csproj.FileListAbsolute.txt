@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.AreaAndPerimeter.resources
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+C:\Users\DELL\Desktop\.net practical\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb
